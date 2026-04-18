@@ -1,4 +1,4 @@
-package com.Mejia.helloandroid.ui
+/*package com.Mejia.helloandroid.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -78,4 +78,4 @@ class UserListFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
-}
+}*/

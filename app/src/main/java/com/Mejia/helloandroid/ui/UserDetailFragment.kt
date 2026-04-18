@@ -1,4 +1,4 @@
-package com.Mejia.helloandroid.ui
+/*package com.Mejia.helloandroid.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -19,7 +19,7 @@ class UserDetailFragment : Fragment() {
     private val viewModel: UserViewModel by activityViewModels()
 
     // Recibir argumentos con Safe Args
-    private val args: UserDetailFragmentArgs by navArgs()
+    //private val args: UserDetailFragmentArgs by navArgs()
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -73,4 +73,4 @@ class UserDetailFragment : Fragment() {
         super.onDestroyView()
         _binding = null
     }
-}
+}*/

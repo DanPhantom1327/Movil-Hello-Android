@@ -1,4 +1,4 @@
-package com.Mejia.helloandroid.ui
+/*package com.Mejia.helloandroid.ui
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -50,4 +50,4 @@ class UserAdapter(
             return oldItem == newItem
         }
     }
-}
+}*/
