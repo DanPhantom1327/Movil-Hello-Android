@@ -41,3 +41,29 @@ o	Centraliza el acceso a datos.
 o	Hace el código más limpio y mantenible.
 o	Facilita pruebas (testing).
 
+---
+
+## Taller 3
+
+### Funcionalidades implementadas
+
+- Creación de tareas
+- Visualización de tareas en lista mediante RecyclerView
+- Navegación entre fragments (lista y detalle)
+- Persistencia de datos (las tareas se mantienen al cerrar la aplicación)
+- Implementación de recordatorios
+
+### Sistema de recordatorios
+
+Se implementó el uso de notificaciones mediante AlarmManager y BroadcastReceiver.
+Cuando el usuario configura un recordatorio en una tarea, la aplicación genera una notificación en el tiempo establecido.
+
+### Evidencias
+
+#### Lista de tareas, detalle de tarea, Notificación y dibujo inicial
+
+- imagenes 1 
+- imagen_1_pruebas
+- imagen_2_pruebas
+- imagen_3_pruebas
+
